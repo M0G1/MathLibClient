@@ -13,6 +13,11 @@
 ```cpp
 bool isPointsOnLine(int x1, int y1, int z1, int x2, int y2, int z2, int x3, int y3, int z3)
 ```
+## Работа программы. Ввод точек не лежащих на 1 прямой
+[Ссылка на облако](https://1drv.ms/u/s!AtMoZWqAe9dcpGb7pGIs0Mr3nr8i?e=WHGcDT)
+
+## Работа программы. Ввод точек лежащие на 1 прямой
+[Ссылка на облако](https://1drv.ms/u/s!AtMoZWqAe9dcpGeyVf9qp28UEnuB?e=WBrBmQ)
 
 ## Проект, где создается динамическая библиотека и описана работа функции
 [MathLib](https://github.com/M0G1/MathLib)
